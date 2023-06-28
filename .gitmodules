@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "LindleyPowerSeries"]
 	path = LindleyPowerSeries
 	url = https://github.com/cran/LindleyPowerSeries
-	shallow = true
-	registered = true
 [submodule "PosRatioDist"]
 	path = PosRatioDist
 	url = https://github.com/cran/PosRatioDist
-	shallow = true
-	registered = true
